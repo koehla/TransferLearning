@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vorsicht</folder>
+	<filename>b7de6e68-1cd5-11ea-b90c-72b5f773b75d.jpg</filename>
+	<path>C:\Users\Philipp\Desktop\dataset\vorsicht\b7de6e68-1cd5-11ea-b90c-72b5f773b75d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vorsicht</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>101</ymin>
+			<xmax>80</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>
